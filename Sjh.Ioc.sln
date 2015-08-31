@@ -5,6 +5,10 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sjh.Ioc", "Sjh.Ioc\Sjh.Ioc.csproj", "{7BFD6404-ACB2-4ABD-A3F2-E2B5C99EAA46}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sjh.Ioc.SampleDll", "Sjh.Ioc.SampleDll\Sjh.Ioc.SampleDll.csproj", "{64633DB4-69F1-4950-BF98-543EACC05EB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sjh.Ioc.SampleWpf", "Sjh.Ioc.SampleWpf\Sjh.Ioc.SampleWpf.csproj", "{05356E97-5A9F-4C3B-AED7-20C524E8A5E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{7BFD6404-ACB2-4ABD-A3F2-E2B5C99EAA46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7BFD6404-ACB2-4ABD-A3F2-E2B5C99EAA46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7BFD6404-ACB2-4ABD-A3F2-E2B5C99EAA46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64633DB4-69F1-4950-BF98-543EACC05EB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64633DB4-69F1-4950-BF98-543EACC05EB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64633DB4-69F1-4950-BF98-543EACC05EB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64633DB4-69F1-4950-BF98-543EACC05EB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05356E97-5A9F-4C3B-AED7-20C524E8A5E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05356E97-5A9F-4C3B-AED7-20C524E8A5E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05356E97-5A9F-4C3B-AED7-20C524E8A5E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05356E97-5A9F-4C3B-AED7-20C524E8A5E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
